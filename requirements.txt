@@ -1,0 +1,6 @@
+PyPDF2
+rich>=13.0.0
+ipywidgets>=8.0.0
+tqdm>=4.66.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
